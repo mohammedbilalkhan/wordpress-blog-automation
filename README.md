@@ -1,1 +1,1 @@
-# wordpress-blog-automation
+# Wordpress Blog Comment Automation
